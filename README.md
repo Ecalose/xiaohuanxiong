@@ -1,8 +1,5 @@
 # xiaohuanxiong
 - 文档地址：https://www.kancloud.cn/hiliqi/raccoon5/1921259
-- 飞机群：https://t.me/easy_cms
-- 另外开源一套小说cms：https://github.com/hiliqi/novel
-- 推荐一套导航下载站cms：https://github.com/hiliqi/easycms
 
 # 开源协议
 本程序采用Apache协议开源
